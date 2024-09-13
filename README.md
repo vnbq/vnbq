@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br> 📚 I'm currently learning python<br>- ⚡ In my free time I code</p>
+<p align="left"> 📚 I'm currently learning python<br>- ⚡ In my free time I code</p>
 
 ###
 
