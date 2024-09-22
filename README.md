@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on python/C++ programming
-- 🌱 I’m currently learning python/C++
+- 🔭 I’m currently working on python programming
+- 🌱 I’m currently learning python
 - 👯 I’m not looking to collaborate on anything right now
-- ⚡ Fun fact: Regular floppy disks can hold up to 1.44 MB!
+- ⚡ There is an OS between XP and Vista. It's name is longhorn.
 -->
 
 ###
